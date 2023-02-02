@@ -1,0 +1,4 @@
+chown -h 1000:1000 './commit-diff'
+chmod 0664 './commit-diff'
+/usr/bin/touch -hcmd "2023-02-02 14:42:16.2882210880 -0300" './commit-diff'
+/usr/bin/touch -hcad "2023-02-02 14:43:55.3406329960 -0300" './commit-diff'

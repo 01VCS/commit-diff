@@ -1,0 +1,1 @@
+# About: an onchain text differ. You can reply as an update to a previous tx, and the commit-diff contract will only post the diffing (removed text, added text)
